@@ -1,0 +1,23 @@
+ 4) Descubra a lógica e complete o próximo elemento:
+
+ a) 1, 3, 5, 7, _9_
+Essa sequência é uma série de números ímpares consecutivos. Após 7, o próximo número ímpar é 9.
+
+ b) 2, 4, 8, 16, 32, 64, _128_
+ Essa sequência é uma série onde cada número é o dobro do anterior (ou seja, multiplicação por 2). O próximo número após 64 é 
+64×2=128
+
+ c) 0, 1, 4, 9, 16, 25, 36, _49_
+Essa é a sequência dos quadrados dos números naturais:
+0²,1².2²,3²,4²,5²,6². O próximo termo é 7² = 49 
+
+ d) 4, 16, 36, 64, _100_
+Essa sequência é composta pelos quadrados dos números pares:2²,4²,6²,8²
+o próximo termo é 10² = 100.
+
+ e) 1, 1, 2, 3, 5, 8, _13_
+Essa é a sequência de Fibonacci, onde cada número é a soma dos dois números anteriores. O próximo número é 
+5+8=13
+
+ f) 2,10, 12, 16, 17, 18, 19, _20_
+ Após um número primo, a sequência parece ter dois números não primos antes de outro número primo. O próximo número após 19 seguindo essa lógica é um número não primo. O número seguinte é 20, que é não primo.
